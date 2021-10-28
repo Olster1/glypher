@@ -1,0 +1,31 @@
+#/SDL2/*
+#/res/*
+#!/res/scenes/
+#!/res/shaders/
+#!/res/tweaker_file.txt
+#!/res/font/fontAtlas_UbuntuMono-Regular_1.png
+#!/res/font/fontAtlas_UbuntuMono-Regular_1.png
+
+# Object files
+*.o
+*.ko
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Executables
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
